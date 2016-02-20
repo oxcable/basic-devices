@@ -1,10 +1,10 @@
 # oxcable-basic-devices
 
-[![Build Status](https://travis-ci.org/oxcable/basic_devices.svg?branch=master)](https://travis-ci.org/oxcable/basic_devices)
-[![Crates.io](https://img.shields.io/crates/v/basic_devices.svg)](https://crates.io/crates/basic_devices)
-![License](https://img.shields.io/crates/l/basic_devices.svg)
+[![Build Status](https://travis-ci.org/oxcable/basic-devices.svg?branch=master)](https://travis-ci.org/oxcable/basic-devices)
+[![Crates.io](https://img.shields.io/crates/v/basic-devices.svg)](https://crates.io/crates/basic-devices)
+![License](https://img.shields.io/crates/l/basic-devices.svg)
 
-[Documentation](http://oxcable.github.io/oxcable/doc/basic_devices/index.html)
+[Documentation](http://oxcable.github.io/oxcable/doc/basic-devices/index.html)
 
 Provides a small suite of simple devices to help develop pipelines with
 [oxcable](http://github.com/oxcable/oxcable).
