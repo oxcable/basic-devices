@@ -1,8 +1,7 @@
 //! An ADSR envelope filter.
 
 use num::traits::Float;
-
-use types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
+use oxcable::types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
 
 
 /// Defines the messages that the ADSR supports.

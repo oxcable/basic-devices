@@ -7,7 +7,7 @@
 //! The comb delays are used to fill out the reverberations and create a steady
 //! decay; they sculpt the color of the room.
 
-use types::Time;
+use oxcable::types::Time;
 
 
 /// A container for Moorer reverberator parameters.

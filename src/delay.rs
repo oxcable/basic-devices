@@ -6,8 +6,8 @@
 //!
 //! The output is mixed with the raw input using the wetness percentage.
 
-use types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
-use utils::ringbuffer::RingBuffer;
+use oxcable::types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
+use oxcable::utils::ringbuffer::RingBuffer;
 
 
 /// Defines the messages that the Delay supports.

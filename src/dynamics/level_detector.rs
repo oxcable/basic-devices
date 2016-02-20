@@ -1,8 +1,7 @@
 //! An envelope estimator.
 
 use num::traits::Float;
-
-use types::{SAMPLE_RATE, Sample};
+use oxcable::types::{SAMPLE_RATE, Sample};
 
 
 /// Performs envelope estimation for a signal.

@@ -1,8 +1,9 @@
 //! A compression filter.
 
-use types::{AudioDevice, MessageReceiver, Sample, Time};
-use utils::helpers::decibel_to_ratio;
-use dynamics::level_detector::LevelDetector;
+use oxcable::types::{AudioDevice, MessageReceiver, Sample, Time};
+use oxcable::utils::helpers::decibel_to_ratio;
+
+use super::level_detector::LevelDetector;
 
 
 /// Defines the messages that the Compressor supports.

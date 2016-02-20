@@ -2,10 +2,11 @@
 
 use num::traits::Float;
 
-use types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
-use utils::ringbuffer::RingBuffer;
-use utils::helpers::decibel_to_ratio;
-use reverb::rooms::Room;
+use oxcable::types::{SAMPLE_RATE, AudioDevice, MessageReceiver, Sample, Time};
+use oxcable::utils::ringbuffer::RingBuffer;
+use oxcable::utils::helpers::decibel_to_ratio;
+
+use super::rooms::Room;
 
 
 /// Defines the messages that the MoorerReverb supports.

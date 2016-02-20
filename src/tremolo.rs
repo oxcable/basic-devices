@@ -33,8 +33,7 @@
 //! ```
 
 use num::traits::Float;
-
-use types::{AudioDevice, MessageReceiver, Sample, Time};
+use oxcable::types::{AudioDevice, MessageReceiver, Sample, Time};
 
 
 /// Defines the messages that the Tremolo supports.
