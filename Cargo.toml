@@ -10,4 +10,4 @@ description = "Simple devices for building oxcable pipelines."
 
 [dependencies]
 num = { version = "0.1.27", default-features = false }
-oxcable = "0.4.2"
+oxcable = "0.5.0"
