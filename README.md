@@ -1,8 +1,8 @@
 # oxcable-basic-devices
 
 [![Build Status](https://travis-ci.org/oxcable/basic-devices.svg?branch=master)](https://travis-ci.org/oxcable/basic-devices)
-[![Crates.io](https://img.shields.io/crates/v/basic-devices.svg)](https://crates.io/crates/basic-devices)
-![License](https://img.shields.io/crates/l/basic-devices.svg)
+[![Crates.io](https://img.shields.io/crates/v/oxcable-basic-devices.svg)](https://crates.io/crates/basic-devices)
+![License](https://img.shields.io/crates/l/oxcable-basic-devices.svg)
 
 [Documentation](http://oxcable.github.io/basic-devices/doc/oxcable_basic_devices/index.html)
 
