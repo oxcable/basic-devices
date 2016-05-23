@@ -11,4 +11,4 @@ exclude= [ "wav/*" ]
 
 [dependencies]
 num = { version = "0.1.27", default-features = false }
-oxcable = "0.5.0"
+oxcable = "0.5.1"
